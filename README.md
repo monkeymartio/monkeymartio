@@ -1,4 +1,5 @@
-**# Master Your Supermarket Empire with [Monkey Mart](https://monkeymart.io/online)!**
+# Master Your Supermarket Empire with [Monkey Mart](https://monkeymart.io/online)!
+
 Ever wondered what it’s like to run a bustling store as a cheeky monkey? Monkey Mart delivers a fun, addictive management game where players build a thriving supermarket from scratch. Created by TinyDobbins, this casual gem hooks you with its simple yet engaging gameplay—perfect for all ages!
 ![monkey-mart](https://defold.com/images/games/monkeymart-half.png)
 
